@@ -6,6 +6,7 @@
 }
 
 .status {
+  text-align: center;
   color: hsl(180, 100%, 70%);
 }
 

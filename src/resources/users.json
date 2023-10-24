@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "first_name": "Paul",
+    "last_name": "MAGENANE",
+    "title": "Product Designer",
+    "tags": ["Product", "Designer", "Concept"],
+    "bio": "I am a product designer with 5 years of experience in the field. I have worked on several projects and I am currently working on a new project for a client. I am looking for a new challenge and I am open to new opportunities.",
+    "picture_url": "https://randomuser.me/api/portraits/men/79.jpg",
+    "relations": 500,
+    "publications": 1093
+  },
+  {
+    "id": 2,
+    "first_name": "Sophia",
+    "last_name": "LEGRAND",
+    "title": "Software Engineer",
+    "tags": ["Programming", "JavaScript", "Backend"],
+    "bio": "With a strong background in software development, I have contributed to numerous successful projects. Passionate about coding and problem-solving, I'm eager to collaborate and bring innovative ideas to life.",
+    "picture_url": "https://randomuser.me/api/portraits/women/34.jpg",
+    "relations": 620,
+    "publications": 345
+  },
+  {
+    "id": 3,
+    "first_name": "Arnaud",
+    "last_name": "DUPONT",
+    "title": "Marketing Specialist",
+    "tags": ["SEO", "Ad Campaigns", "Strategy"],
+    "bio": "Having spearheaded various marketing campaigns, I have a knack for understanding market needs and tailoring strategies accordingly. I'm looking to join a team where my skills can drive results.",
+    "picture_url": "https://randomuser.me/api/portraits/men/21.jpg",
+    "relations": 435,
+    "publications": 786
+  },
+  {
+    "id": 4,
+    "first_name": "Camille",
+    "last_name": "FAURE",
+    "title": "Content Creator",
+    "tags": ["Blogging", "Video Editing", "Social Media"],
+    "bio": "As a passionate content creator, I've built a following by delivering compelling stories across various platforms. My expertise in content creation makes me a valuable asset to any team.",
+    "picture_url": "https://randomuser.me/api/portraits/women/52.jpg",
+    "relations": 732,
+    "publications": 1290
+  },
+  {
+    "id": 5,
+    "first_name": "Benoit",
+    "last_name": "MERCIER",
+    "title": "Financial Analyst",
+    "tags": ["Finance", "Budgeting", "Risk Analysis"],
+    "bio": "With a keen eye for detail and a strong understanding of financial trends, I've helped companies optimize their budgets and predict market shifts. I am on the lookout for a role where I can further apply my analytical skills.",
+    "picture_url": "https://randomuser.me/api/portraits/men/64.jpg",
+    "relations": 538,
+    "publications": 419
+  }
+]
