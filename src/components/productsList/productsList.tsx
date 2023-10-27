@@ -1,4 +1,5 @@
 import { Product, StockStatus } from "@/types";
+import "./productsList.css";
 
 interface ProductsListProps {
   products: Product[];

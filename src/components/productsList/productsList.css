@@ -1,0 +1,32 @@
+.products-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.product-card {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  min-width: 240px;
+}
+
+.product-name {
+  margin: 0;
+}
+
+.product-price {
+  margin-bottom: 20px;
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.product-stock-status {
+  text-transform: uppercase;
+  text-align: right;
+}

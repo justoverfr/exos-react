@@ -12,6 +12,11 @@ const productsList: Product[] = [
     price: 69,
     stock_status: StockStatus.IN_STOCK,
   },
+  {
+    name: "Golden Brim",
+    price: 999,
+    stock_status: StockStatus.IN_STOCK,
+  },
 ];
 
 export default function ProductsPage() {
