@@ -7,4 +7,5 @@ export interface Product {
   name: string;
   price: number;
   stock_status: StockStatus;
+  img_url: string;
 }

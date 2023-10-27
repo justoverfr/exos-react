@@ -10,6 +10,7 @@ export default function ProductsList({ products }: ProductsListProps) {
     <div className="products-list">
       {products.map((product) => (
         <div className="product-card">
+          <img src={product.img_url} alt={product.name} />
           <h3 className="product-name">{product.name}</h3>
           <p className="product-price">{product.price}€</p>
           <p className="product-stock-status">

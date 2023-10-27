@@ -16,6 +16,11 @@
   min-width: 240px;
 }
 
+.product-card img {
+  width: auto;
+  height: 100px;
+}
+
 .product-name {
   margin: 0;
 }
