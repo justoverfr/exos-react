@@ -4,7 +4,6 @@ interface ProductsListProps {
   products: Product[];
 }
 
-// Liste de div block with the name, price and stock_status of each product
 export default function ProductsList({ products }: ProductsListProps) {
   return (
     <div className="products-list">
