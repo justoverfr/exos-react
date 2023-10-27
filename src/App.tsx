@@ -5,6 +5,7 @@ import TodoPage from "./pages/todo";
 import CounterPage from "./pages/counter";
 import Profile from "./pages/profile";
 import Header from "./components/header/Header";
+import ProductsPage from "./pages/products";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
             <Route path="/todo" element={<TodoPage />} />
             <Route path="/counter" element={<CounterPage />} />
             <Route path="/profile/:id" element={<Profile />} />
+            <Route path="/products" element={<ProductsPage />} />
           </Routes>
         </div>
       </Router>

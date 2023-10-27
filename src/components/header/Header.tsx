@@ -17,6 +17,10 @@ const navLinks = [
     label: "Exo 3",
     path: "/profile/1",
   },
+  {
+    label: "Exo 5",
+    path: "/products",
+  },
 ];
 
 export default function Header() {
