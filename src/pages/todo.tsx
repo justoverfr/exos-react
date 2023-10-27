@@ -29,7 +29,7 @@ export default function TodoPage() {
 
   return (
     <div className="todo-form">
-      <header>
+      <div className="todo-form-top">
         <h1>Todo</h1>
         <div className="header-right">
           <div className="header-date">
@@ -38,7 +38,7 @@ export default function TodoPage() {
           </div>
           <CalendarClock color="blue" />
         </div>
-      </header>
+      </div>
 
       <hr />
 

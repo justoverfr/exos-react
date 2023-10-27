@@ -18,7 +18,7 @@ hr {
   margin: 20px auto;
 }
 
-header {
+.todo-form-top {
   display: flex;
   flex-direction: row;
   align-items: center;
